@@ -1,3 +1,3 @@
 # vbclass
-This is for my software development class
-January 4th, updated README
+This is for my software development class <br>
+January 4th, added br tag
