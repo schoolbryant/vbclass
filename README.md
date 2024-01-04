@@ -1,3 +1,3 @@
 # vbclass
 This is for my software development class <br>
-January 4th, added br tag
+<b>January 4th </b>, <i>added br tag</i>
